@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-76fdeab7"],{b447b:function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n    商户管理\n")])},a=[],s={name:"business",data:function(){return{}}},c=s,r=t("2877"),i=Object(r["a"])(c,u,a,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-76fdeab7.d298f0bb.js.map
