@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efb14ff181efe3f569a7081b43860dd5",
+    "revision": "9f575ba2bd6c0817deed0b7f2a80607d",
     "url": "/react-tuanzi/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tuanzi/static/css/2.6afed8d2.chunk.css"
   },
   {
-    "revision": "6c32d30dfeab4fb37315",
-    "url": "/react-tuanzi/static/css/main.4469268e.chunk.css"
+    "revision": "43bda8a7e0a4372a4245",
+    "url": "/react-tuanzi/static/css/main.aa611e67.chunk.css"
   },
   {
     "revision": "aa5ff19624607a2666bf",
     "url": "/react-tuanzi/static/js/2.ab3ff3d3.chunk.js"
   },
   {
-    "revision": "6c32d30dfeab4fb37315",
+    "revision": "43bda8a7e0a4372a4245",
     "url": "/react-tuanzi/static/js/main.6f761e3a.chunk.js"
   },
   {

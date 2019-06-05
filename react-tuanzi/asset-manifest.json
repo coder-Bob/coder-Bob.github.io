@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-tuanzi/static/css/main.4469268e.chunk.css",
+    "main.css": "/react-tuanzi/static/css/main.aa611e67.chunk.css",
     "main.js": "/react-tuanzi/static/js/main.6f761e3a.chunk.js",
     "main.js.map": "/react-tuanzi/static/js/main.6f761e3a.chunk.js.map",
     "runtime~main.js": "/react-tuanzi/static/js/runtime~main.e126414c.js",
@@ -9,10 +9,10 @@
     "static/js/2.ab3ff3d3.chunk.js": "/react-tuanzi/static/js/2.ab3ff3d3.chunk.js",
     "static/js/2.ab3ff3d3.chunk.js.map": "/react-tuanzi/static/js/2.ab3ff3d3.chunk.js.map",
     "index.html": "/react-tuanzi/index.html",
-    "precache-manifest.040bfb58605852137c3db72ca89e61d7.js": "/react-tuanzi/precache-manifest.040bfb58605852137c3db72ca89e61d7.js",
+    "precache-manifest.412fa355f0d72a25c33569501b435246.js": "/react-tuanzi/precache-manifest.412fa355f0d72a25c33569501b435246.js",
     "service-worker.js": "/react-tuanzi/service-worker.js",
     "static/css/2.6afed8d2.chunk.css.map": "/react-tuanzi/static/css/2.6afed8d2.chunk.css.map",
-    "static/css/main.4469268e.chunk.css.map": "/react-tuanzi/static/css/main.4469268e.chunk.css.map",
+    "static/css/main.aa611e67.chunk.css.map": "/react-tuanzi/static/css/main.aa611e67.chunk.css.map",
     "static/media/index.scss": "/react-tuanzi/static/media/iconfont.d778e278.eot"
   }
 }
