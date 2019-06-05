@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-tuanzi/static/css/main.aa611e67.chunk.css",
-    "main.js": "/react-tuanzi/static/js/main.cf89b179.chunk.js",
-    "main.js.map": "/react-tuanzi/static/js/main.cf89b179.chunk.js.map",
-    "runtime~main.js": "/react-tuanzi/static/js/runtime~main.e126414c.js",
-    "runtime~main.js.map": "/react-tuanzi/static/js/runtime~main.e126414c.js.map",
-    "static/css/2.6afed8d2.chunk.css": "/react-tuanzi/static/css/2.6afed8d2.chunk.css",
-    "static/js/2.e5e20381.chunk.js": "/react-tuanzi/static/js/2.e5e20381.chunk.js",
-    "static/js/2.e5e20381.chunk.js.map": "/react-tuanzi/static/js/2.e5e20381.chunk.js.map",
-    "index.html": "/react-tuanzi/index.html",
-    "precache-manifest.5606a3f3634995d0c45784fabfb58ba4.js": "/react-tuanzi/precache-manifest.5606a3f3634995d0c45784fabfb58ba4.js",
-    "service-worker.js": "/react-tuanzi/service-worker.js",
-    "static/css/2.6afed8d2.chunk.css.map": "/react-tuanzi/static/css/2.6afed8d2.chunk.css.map",
-    "static/css/main.aa611e67.chunk.css.map": "/react-tuanzi/static/css/main.aa611e67.chunk.css.map",
-    "static/media/index.scss": "/react-tuanzi/static/media/iconfont.d778e278.eot"
+    "main.css": "./static/css/main.40f14744.chunk.css",
+    "main.js": "./static/js/main.3fa38ac7.chunk.js",
+    "main.js.map": "./static/js/main.3fa38ac7.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.6afed8d2.chunk.css": "./static/css/2.6afed8d2.chunk.css",
+    "static/js/2.e5e20381.chunk.js": "./static/js/2.e5e20381.chunk.js",
+    "static/js/2.e5e20381.chunk.js.map": "./static/js/2.e5e20381.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.695e8c27d61b44ecb56b0c734c77243b.js": "./precache-manifest.695e8c27d61b44ecb56b0c734c77243b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.6afed8d2.chunk.css.map": "./static/css/2.6afed8d2.chunk.css.map",
+    "static/css/main.40f14744.chunk.css.map": "./static/css/main.40f14744.chunk.css.map",
+    "static/media/index.scss": "./static/media/iconfont.d778e278.eot"
   }
 }
