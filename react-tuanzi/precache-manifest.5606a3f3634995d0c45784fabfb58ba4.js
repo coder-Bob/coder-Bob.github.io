@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f575ba2bd6c0817deed0b7f2a80607d",
+    "revision": "98d961dc09b9267c38f423ff188e5399",
     "url": "/react-tuanzi/index.html"
   },
   {
-    "revision": "aa5ff19624607a2666bf",
+    "revision": "89255ef2b496a4b7f8cd",
     "url": "/react-tuanzi/static/css/2.6afed8d2.chunk.css"
   },
   {
-    "revision": "43bda8a7e0a4372a4245",
+    "revision": "4a0295a9387a628c192c",
     "url": "/react-tuanzi/static/css/main.aa611e67.chunk.css"
   },
   {
-    "revision": "aa5ff19624607a2666bf",
-    "url": "/react-tuanzi/static/js/2.ab3ff3d3.chunk.js"
+    "revision": "89255ef2b496a4b7f8cd",
+    "url": "/react-tuanzi/static/js/2.e5e20381.chunk.js"
   },
   {
-    "revision": "43bda8a7e0a4372a4245",
-    "url": "/react-tuanzi/static/js/main.6f761e3a.chunk.js"
+    "revision": "4a0295a9387a628c192c",
+    "url": "/react-tuanzi/static/js/main.cf89b179.chunk.js"
   },
   {
     "revision": "dc7c52183d1e90d65c90",
