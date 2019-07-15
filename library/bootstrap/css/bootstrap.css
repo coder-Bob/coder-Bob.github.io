@@ -5754,3 +5754,6 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+
+a, input, textarea, select {
+  outline: none; }
