@@ -6,4 +6,4 @@
 
 项目二：[一个基于React的生鲜电商小页面](http://coder-Bob.github.io/react-tuanzi/ "生鲜电商"). 
 
-项目二：[常用插件及及触摸板整理](http://coder-Bob.github.io/FE_Book/ "FE_Book"). 
+项目二：[常用插件及基础摸板整理](http://coder-Bob.github.io/FE_Book/ "FE_Book"). 
